@@ -1,0 +1,13 @@
+.vscode/
+src/
+node_modules/
+tmp/
+docs/
+*.ts
+tsconfig.json
+vite.config.js
+vitest.config.ts
+.gitignore
+.DS_Store
+PRD.md
+CLAUDE.md
