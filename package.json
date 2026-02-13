@@ -2,7 +2,7 @@
   "name": "markdown-open-with",
   "displayName": "Markdown Open With",
   "description": "Open your Markdown files with external applications directly from the editor.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "ttaatoo",
   "license": "MIT",
   "icon": "icon.png",
