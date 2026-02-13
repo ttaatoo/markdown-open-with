@@ -4,26 +4,26 @@ Open your Markdown files with external applications directly from the editor tit
 
 ## Installation
 
-### 从 VSIX 安装（本地构建）
+### Install from VSIX (local build)
 
-1. 克隆仓库并构建扩展包：
+1. Clone the repo and build the extension package:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/ttaatoo/markdown-open-with
    cd markdown-open-with
    npm install
    npm run compile
    npm run package
    ```
-2. 在 VS Code / Cursor 中：**扩展** → 右上角 **⋯** → **从 VSIX 安装…** → 选择生成的 `markdown-open-with-0.1.0.vsix`。
+2. In VS Code / Cursor: **Extensions** → **⋯** (top right) → **Install from VSIX…** → choose the generated `markdown-open-with-0.1.0.vsix`.
 
-或命令行安装：
+Or install from the command line:
 ```bash
 code --install-extension markdown-open-with-0.1.0.vsix
 ```
 
-### 从市场安装（若已发布）
+### Install from marketplace
 
-在扩展面板搜索 **Markdown Open With** 并安装，或：
+Search for **Markdown Open With** in the Extensions panel and install, or run:
 ```bash
 code --install-extension ttaatoo.markdown-open-with
 ```

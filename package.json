@@ -5,6 +5,8 @@
   "version": "0.1.0",
   "publisher": "ttaatoo",
   "license": "MIT",
+  "icon": "icon.png",
+  "readme": "README.md",
   "repository": {
     "type": "git",
     "url": "https://github.com/ttaatoo/markdown-open-with.git"
